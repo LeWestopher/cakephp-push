@@ -6,7 +6,8 @@
     "require": {
         "php": ">=5.4.16",
         "cakephp/cakephp": "~3.0",
-        "mockery/mockery": "0.9.*"
+        "mockery/mockery": "0.9.*",
+        "pusher/pusher-php-server": "^2.6"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
